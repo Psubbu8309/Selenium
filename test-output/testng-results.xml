@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-16T15:04:05 IST" name="Default suite" finished-at="2025-07-16T15:04:05 IST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2025-07-16T15:04:05 IST" name="Default test" finished-at="2025-07-16T15:04:05 IST" duration-ms="41">
+      <class name="Using_annotations.Utilizing_base_class">
+        <test-method is-config="true" signature="bs()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="bs" finished-at="2025-07-16T15:04:05 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="bt" finished-at="2025-07-16T15:04:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="bm" finished-at="2025-07-16T15:04:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="demotest()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="demotest" finished-at="2025-07-16T15:04:05 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest -->
+        <test-method is-config="true" signature="am()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="am" finished-at="2025-07-16T15:04:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method signature="demotest2()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="demotest2" finished-at="2025-07-16T15:04:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest2 -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="bm" finished-at="2025-07-16T15:04:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method is-config="true" signature="am()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="am" finished-at="2025-07-16T15:04:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="at()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="at" finished-at="2025-07-16T15:04:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:Using_annotations.Utilizing_base_class@563f38c4]" started-at="2025-07-16T15:04:05 IST" name="as" finished-at="2025-07-16T15:04:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- Using_annotations.Utilizing_base_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

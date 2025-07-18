@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="3" parallel="tests">
+  <test name="Test_f">
+    <classes>
+      <class name="TestNG.Using_flipkart"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="Test_a">
+    <classes>
+      
+      <class name="TestNG.Using_amazon"/>
+     
+    </classes>
+  </test> <!-- Test -->
+   <test  name="Test_b">
+    <classes>
+      
+      <class name="TestNG.Bookmyshow"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
